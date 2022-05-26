@@ -1,0 +1,23 @@
+
+.thumbnail{
+    padding: 0;
+    width: 100%;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    /* background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); */
+}
+.jumbotron h1 {
+    /* font-size: 72px; */
+    font-weight: 700;
+    color: #000851 ;
+    /* background: -webkit-linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent; */
+  }
+.nav-item:hover{
+    background-color: #000851;
+    color: white;
+    border-radius: 0.5em;
+}
