@@ -2,10 +2,6 @@
 
 A nodejs web application project from the Udemy course - ([The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/))
 
-## Live Demo
-
-You can view the website at ([https://powerful-taiga-46097.herokuapp.com/](https://powerful-taiga-46097.herokuapp.com/))
-
 ## Features
 
 * Authentication:
